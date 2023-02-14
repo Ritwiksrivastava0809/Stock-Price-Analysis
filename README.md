@@ -51,4 +51,22 @@ This project was inspired by the work of Hvass Laboratories. The stock price dat
 
  
 
+![image](https://user-images.githubusercontent.com/112408652/218652372-11ab149a-7361-463b-b56a-f4d09144a317.png)
+
+![image](https://user-images.githubusercontent.com/112408652/218652426-93bf96a9-69e9-446f-8878-47f667e76c41.png)
+
+
+![image](https://user-images.githubusercontent.com/112408652/218652447-b08bbf48-bc59-49f2-9065-0833a5f1dd41.png)
+
+![image](https://user-images.githubusercontent.com/112408652/218652483-1aff8e20-10d3-4fdb-9164-652474143d7e.png)
+
+
+![image](https://user-images.githubusercontent.com/112408652/218652507-5d22d623-d46e-4709-bd87-fb92d6762ba9.png)
+
+
+![image](https://user-images.githubusercontent.com/112408652/218652549-f5a918ff-1e05-4633-b4f1-e2d3c172abb0.png)
+
+
+![image](https://user-images.githubusercontent.com/112408652/218652571-a030c008-2924-489a-a0d9-4367c6c58d90.png)
+
 
